@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DerPalma
+- 👀 I’m interested in Minecraft Plugins
+- 🌱 I’m currently learning Java
